@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_detail_metascore_text">86</string>
+    <string name="movie_detail_vote_avarage_right_text">/10</string>
+    <string name="movie_detail_rate_this_text">Rate This</string>
+    <string name="movie_detail_meta_score_text">Meta Scrore</string>
+    <string name="movie_detail_critic_viewers_text">100 Critic Viewers</string>
+    <string name="movie_detail_movie_count_time_text">2h 32min</string>
+    <string name="movie_detail_pg_13_time_text">PG-13</string>
+    <string name="movie_detail_plot_summary_time_text">Plot Summary</string>
+    <string name="test_text_string">TEST</string>
+    <string name="test_number_string">0000</string>
+    <string name="films_text">FİLMLER</string>
+    <string name="favorities_film_text">FAVORİ FİLMLER</string>
+    <string name="toast_favor_ok_text">Başarı ile Favorilere Eklendi</string>
+    <string name="test_pragraph_string">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est.</string>
+</resources>

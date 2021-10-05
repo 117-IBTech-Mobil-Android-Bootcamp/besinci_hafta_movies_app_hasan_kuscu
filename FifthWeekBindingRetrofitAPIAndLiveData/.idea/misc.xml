@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/drawable/ic_john_wick_chapter_three_ver2.xml" value="0.3828125" />
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/drawable/ic_nav_bar.xml" value="0.3828125" />
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/drawable/shadow.xml" value="0.3828125" />
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/layout/fragment_film_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/layout/fragment_movie_detail.xml" value="0.25" />
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/layout/fragment_movie_favor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/layout/fragment_movie_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/turku/OneDrive/Belgeler/GitHub/Patika-IBTECH-Mobil-Android-Bootcamp/FifthWeekBindingRetrofitAPIAndLiveData/app/src/main/res/layout/movie_fragment_recycler_item_row.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
